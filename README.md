@@ -1,5 +1,5 @@
 # projeto1-doc
-Aplicação de Algitmos de Machine Learning para Predição da Temperatura Interna ao Final da Corrida de 10km
+Aplicação de  Algoritmos de Machine Learning para Predição da Temperatura Interna ao Final da Corrida de 10km
 
 Este projeto se dedica à aplicação de modelos de machine learning para prever a temperatura interna ao término de uma corrida autocontrolada de 10km.
 
